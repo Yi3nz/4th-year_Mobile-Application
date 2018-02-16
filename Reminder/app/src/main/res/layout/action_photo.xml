@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:srcCompat="@mipmap/ic_reminder"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:id="@+id/imageView" />
+
+    <Button
+        android:text="@string/camera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_margin="30dp"
+        android:background="#f06292"
+        android:textColor="#ffffff"
+        android:id="@+id/buttonCamera" />
+
+    <Button
+        android:text="@string/gallery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:background="#f06292"
+        android:textColor="#ffffff"
+        android:layout_margin="30dp"
+        android:id="@+id/buttonGallery" />
+
+    <TextView
+        android:text="@string/your_photo_will_shown_here"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView" />
+
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">猶憶</string>
+    <string name="textSplashScreen">歡迎小夥伴!! ੭ ᐕ)੭*⁾⁾</string>
+    <!--Add CA Activity-->
+    <string name="btnTextSubject">科目</string>
+    <string name="btnTextDuedate">截止日期</string>
+    <string name="hintCATitle">輸入作業名稱</string>
+    <string name="hint_CANotes">輸入更多相關筆記</string>
+    <string name="btnSaveCA">保存</string>
+    <string name="refresh">刷新</string>
+    <!--Add Subject Activity-->
+    <string name="hint_SubjectName">輸入新科目</string>
+    <string name="btn_SubmitSubject">提交</string>
+    <!--Main Activity-->
+    <string name="demo_CATitle">作業名稱</string>
+    <string name="demo_CASubject">科目</string>
+    <string name="demo_CADuedate">截止日期</string>
+    <!--Action bar-->
+    <string name="take_photo">照相</string>
+    <string name="scan_qr_code">驗證 QRCode</string>
+    <string name="actionbar_exit">退出</string>
+    <!--Action Photo-->
+    <string name="camera">相機</string>
+    <string name="gallery">相冊</string>
+    <string name="your_photo_will_shown_here">您的相片將會顯示于這.</string>
+    <string name="the_details_of_the_code">顯示結果:</string>
+    <string name="QRCodeResult">---</string>
+</resources>

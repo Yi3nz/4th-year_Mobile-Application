@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="textSplashScreen">Welcome buddies!! ੭ ᐕ)੭*⁾⁾</string>
+    <!--Add CA Activity-->
+    <string name="btnTextSubject">Subject</string>
+    <string name="btnTextDuedate">Due date</string>
+    <string name="hintCATitle">Enter your CA title</string>
+    <string name="hint_CANotes">Enter additional notes</string>
+    <string name="btnSaveCA">Save</string>
+    <string name="refresh">Refresh</string>
+    <!--Add Subject Activity-->
+    <string name="hint_SubjectName">Enter new subject</string>
+    <string name="btn_SubmitSubject">Submit</string>
+    <!--Demo Main Activity-->
+    <string name="demo_CATitle">CA Title</string>
+    <string name="demo_CASubject">Subject</string>
+    <string name="demo_CADuedate">Duedate</string>
+    <!--Action bar-->
+    <string name="take_photo">Take Photo</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="actionbar_exit">Exit</string>
+    <!--Action Photo-->
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="your_photo_will_shown_here">Your photo will shown here.</string>
+    <string name="the_details_of_the_code">The details of the code:</string>
+    <string name="QRCodeResult">---</string>
+</resources>
